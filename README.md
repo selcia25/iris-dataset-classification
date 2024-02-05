@@ -20,7 +20,7 @@ This repository contains a Python script for classifying the Iris dataset using 
 
 4. **Run the Script:**
    ```bash
-   python iris_classification.py
+   python object_recognition.py
    ```
 
 ## Dependencies
